@@ -5,7 +5,6 @@
 * 📫 Want to say hello? Reach me at **John.lenz29@gmail.com**
 
 <p align="center"><a href="https://www.linkedin.com/in/john-lenz27/"><img align="center" src="https://img.shields.io/badge/LinkedIn-6fd2f9?style=for-the-badge&logo=linkedin&logoColor=282a36"></a>
-<a href="https://aitanas.github.io/portfolio/"><img align="center" src="https://img.shields.io/badge/portfolio-f65385?style=for-the-badge&logo=undertale"></a></p>
   
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">

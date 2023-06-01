@@ -14,7 +14,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jlenz27&show_icons=true&theme=dracula&hide=issues&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlenz27&layout=compact&theme=dracula&hide_border=true" />
-</a>
+
 </p>

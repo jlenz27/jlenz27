@@ -8,7 +8,7 @@
   
   
 
- ![Leetcode Stats](https://leetcard.jacoblin.cool/jlenz27?theme=nord?ext=heatmap))
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/jlenz27?ext=heatmap)
 
 <p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -16,4 +16,4 @@
 </a>
 
 </p>
-[![](https://visitcount.itsvg.in/api?id=jlenz27&icon=1&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=jlenz27&color=green)

@@ -16,4 +16,4 @@
 </a>
 
 </p>
-![](https://komarev.com/ghpvc/?username=jlenz27&color=green)
+![](https://komarev.com/ghpvc/?username=jlenz27)

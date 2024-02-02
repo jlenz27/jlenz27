@@ -1,6 +1,5 @@
 ### Hey there, I’m John! 👋
 
-* I’m currently learning **React** at [Epicodus](https://www.epicodus.com/)
 *  Check out my Portfolio to see some of my work https://portfolio-jlenz27.vercel.app/
 * I love front-end development and am interested in building beautiful and functional websites and applications.
 * 📫 Want to say hello? Reach me at **John.lenz29@gmail.com**
